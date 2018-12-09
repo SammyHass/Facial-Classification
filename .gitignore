@@ -1,0 +1,4 @@
+models/*
+test/*
+train/*
+aug_data/*
